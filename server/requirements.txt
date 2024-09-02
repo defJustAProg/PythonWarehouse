@@ -1,0 +1,13 @@
+sqlalchemy
+python-multipart
+fastapi==0.110.1 
+passlib==1.7.4 
+pydantic==2.7.0 
+uvicorn==0.29.0 
+python-dotenv
+psycopg2-binary
+sqlalchemy_utils
+pydantic
+pytest
+jinja2
+httpx
